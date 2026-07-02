@@ -1,0 +1,14 @@
+C:\semester2\Data Structures\ClassManagementApp\bin\Debug\net10.0\ClassManagementApp.exe
+C:\semester2\Data Structures\ClassManagementApp\bin\Debug\net10.0\ClassManagementApp.deps.json
+C:\semester2\Data Structures\ClassManagementApp\bin\Debug\net10.0\ClassManagementApp.runtimeconfig.json
+C:\semester2\Data Structures\ClassManagementApp\bin\Debug\net10.0\ClassManagementApp.dll
+C:\semester2\Data Structures\ClassManagementApp\bin\Debug\net10.0\ClassManagementApp.pdb
+C:\semester2\Data Structures\ClassManagementApp\obj\Debug\net10.0\ClassManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\semester2\Data Structures\ClassManagementApp\obj\Debug\net10.0\ClassManagementApp.AssemblyInfoInputs.cache
+C:\semester2\Data Structures\ClassManagementApp\obj\Debug\net10.0\ClassManagementApp.AssemblyInfo.cs
+C:\semester2\Data Structures\ClassManagementApp\obj\Debug\net10.0\ClassManagementApp.csproj.CoreCompileInputs.cache
+C:\semester2\Data Structures\ClassManagementApp\obj\Debug\net10.0\ClassManagementApp.dll
+C:\semester2\Data Structures\ClassManagementApp\obj\Debug\net10.0\refint\ClassManagementApp.dll
+C:\semester2\Data Structures\ClassManagementApp\obj\Debug\net10.0\ClassManagementApp.pdb
+C:\semester2\Data Structures\ClassManagementApp\obj\Debug\net10.0\ClassManagementApp.genruntimeconfig.cache
+C:\semester2\Data Structures\ClassManagementApp\obj\Debug\net10.0\ref\ClassManagementApp.dll
