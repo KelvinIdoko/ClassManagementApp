@@ -56,8 +56,6 @@ The system supports full student lifecycle management, including academic tracki
 
 ---
 
----
-
 ## Core Components
 
 ### Student
