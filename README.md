@@ -148,3 +148,12 @@ The system includes strict validation rules:
 #### 1. Clone Repository
 ```bash
 git clone https://github.com/your-username/ClassManagementSystem.git
+
+```bash
+cd ClassManagementSystem
+
+```bash
+dotnet build
+
+```bash
+dotnet run
